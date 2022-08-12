@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krish-Arse
-- 👔 Founder & Ceo of @unknown-security
+- 👔 Building Redeye Security
 - 🌱 Everyday learing New topics for hacking
 - 🐞 Be bug free
 - 📫 How to reach me mailkrisharse@gmail.com
